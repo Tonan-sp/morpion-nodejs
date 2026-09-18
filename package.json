@@ -1,0 +1,13 @@
+{
+  "name": "morpion-nodejs",
+  "version": "1.0.0",
+  "description": "Serveur WebSocket pour Tic-Tac-Toe",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}
