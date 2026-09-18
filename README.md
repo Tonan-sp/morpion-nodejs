@@ -1,2 +1,2 @@
-# morpion-nodejs
-repo pour debian 13
+# Tic-Tac-toe
+Morpion interactif en ligne
