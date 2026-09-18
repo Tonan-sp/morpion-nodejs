@@ -1,2 +1,2 @@
-# Tic-Tac-toe
-Morpion interactif en ligne
+# morpion-nodejs
+Morpion interactif en ligne, partie Backend
